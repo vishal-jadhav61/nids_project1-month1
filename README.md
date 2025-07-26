@@ -3,9 +3,11 @@ Implementation of a basic Network Intrusion Detection System (NIDS) using Snort 
 
 **Month 1: Foundation for All Students**
 
-**Week Tasks
+****Week Tasks**
 
-Week 1**
+
+**Week 1**
+
 • Introduction to NIDS and Snort
 
 • Install Linux (Ubuntu/Kali)
@@ -14,7 +16,9 @@ Week 1**
 
 • Basic Linux command-line navigation
 
+
 **Week 2**
+
 • Identify active network interface
 
 • Configure Snort with monitored IP range
@@ -23,7 +27,9 @@ Week 1**
 
 • Monitor live traffic and alerts
 
+
 **Week 3**
+
 • Simulate attacks (e.g., ping flood)
 
 • Observe Snort alerts
@@ -32,7 +38,9 @@ Week 1**
 
 • Review alert logs
 
+
 **Week 4**
+
 • Explore default Snort rules and structure
 
 • Learn rule components (actions, protocols, etc.)
@@ -40,7 +48,9 @@ Week 1**
 • Prepare a basic report with screenshots on configuration
 and alerts
 
+
 **Deliverables – Month 1**
+
 • Report covering:
 
 o Snort installation & setup
